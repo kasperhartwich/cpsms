@@ -1,0 +1,20 @@
+{
+    "name": "kasperhartwich/cpsms",
+    "type": "library",
+    "description": "Send a sms via smsprovider http://www.cpsms.dk",
+    "keywords": ["cpsms", "sms", "compaya"],
+    "homepage": "https://github.com/kasperhartwich/cpsms",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kasper Hartwich",
+            "email": "kasperhartwich@gmail.com"
+        }
+    ],
+   "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["lib/"]
+    }
+}
