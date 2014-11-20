@@ -1,3 +1,5 @@
+**Abandoned!** See https://github.com/kasperhartwich/php-smssender
+
 cpsms
 =====
 
